@@ -24,10 +24,10 @@ Please do at least every survey!
 
 Check off those that you have done.
 
-TODO: You can now check to see your data. If you have responses from 15+ people,
+You can now check to see your data. If you have responses from 15+ people,
 download the CSV files using the names `data_survey.csv` and `data_analytics.csv`.
 
-TODO: If you reupload those files into your GitHub Repos under the data directory,
+If you reupload those files into your GitHub Repos under the data directory,
 the `Data` tab should show your data!!
 
-TODO: Now find the ipynb file in your GitHub repo and continue with the TODOs.
+Now find the ipynb file in your GitHub repo and continue with the TODOs.
