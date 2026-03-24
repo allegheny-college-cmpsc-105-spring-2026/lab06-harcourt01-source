@@ -14,7 +14,7 @@ title: "Analytics"
   tracking number that Google Analytics provides.
 
 - Please save your work and check that the tracking number is working before continuing
-  on to the TODOs in the `Questionnaire` tab. You will return later to the notebook file.
+  on to the problems in the `Questionnaire` tab. You will return later to the notebook file.
 
 <!-- CMPSC 105 - Please do not edit below this line -->
 
