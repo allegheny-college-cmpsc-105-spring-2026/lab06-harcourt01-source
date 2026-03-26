@@ -2,28 +2,26 @@
 title: Report
 ---
 
-TODO: Write your report in this `report.qmd` file using markdown syntax.
+Write your report in this `report.qmd` file using markdown syntax.
 
-## What this was lab about
+## What this lab was about
 
-TODO: Briefly summarize what this lab was about and what you did at a high level.
+This lab was essentially working on every aspect we have learned so far. We used data gathering with surveys and software and we also did the data filtering and analysis inside of the google colab file. This was a good example of how a real world survey and data could be collected and studied. At a high level I collected and analyzed data to find statistical evidence in from the CS105 classroom.
 
 ## Methods
 
-TODO: Briefly talk about the methods you used to gather the data and any specific functions that helped reveal the patterns.
+We used google analytics to get the data from a website and we also used google forms to get answers for a personal survey. The participants remained anonymous and answer the questions. Then the data was downloaded as a csv file to help import it as a data set in the google colab notebook. After this we were able to filter and adjust the data set to find anything of value in the data. The boxplots are always very useful to help easily share and visualize data which is why I went with 2 of those.
 
 ## Findings
 
-TODO: Briefly restate what you found out about your classmates by exploring the data. 
+I found out that my classmates all play sports and that a vast majority of them find themselves loving their sport at a 8/10 or above. This is shown in figure 2 where you can see 6 sports had a 8/10 or higher rating and only 2 sports were below that.
 
-TODO: Briefly restate what your found out about your site usage by exploring the Google Analytics Data.
-
-Please refer to the figures you made in the notebook by title. For example, "As shown in figure 1..."
+I also was able to see from my data that there were a lot more views of my website than there were people who actually had activity on it. This is extremely evident in figure 1. However, this was too be expected as activity on the site is hard when it is not intended to get activity.
 
 ## Discussion
 
-TODO: Briefly mention how data gathering can help you answer specific questions.
+Data gathering helps to answer specific questions in many ways. The first one is that you are the one that can choose which questions you want to ask if you are the one making the surveys. Another way is by collecting data and comparing it with displays that show your overall results. Lastly you can make infrences based not just on the figures but also on the statistics you can do with the data as well. 
 
 ## Future directions
 
-TODO: Briefly state what could be explored within the data in the future, building on what you already did. Your answer must be something that you could actually do with the data, related to this lab.
+There could have been data showing which sport seemed to have the highest rating in total however that data would have been skewed for many reasons. The first one is that there was not a big enough class size to get a mean fro each sport. The second one which could become less of a problem if the sample sizes were larger would be that if only one person rates a sport and its a 10 then it can out compete a sport with a bunch of 10's and 9's when it collectively could have a much better score.
